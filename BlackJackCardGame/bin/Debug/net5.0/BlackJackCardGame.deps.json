@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "BlackJackCardGame/1.0.0": {
+        "runtime": {
+          "BlackJackCardGame.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BlackJackCardGame/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
